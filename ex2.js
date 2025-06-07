@@ -1,7 +1,7 @@
 import prompt from 'prompt-sync'
 let ler = prompt();
 
-console.log('---0PROGRAMA DOS NOMES---');
+console.log('---O PROGRAMA DOS NOMES---');
 
 console.log('Informe os 5 nomes');
 let n1 = ler();
